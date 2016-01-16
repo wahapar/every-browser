@@ -1,2 +1,2 @@
-# every-browser
-Css Framework For Every browser
+# Every Browser
+Css Framework For Every browser.
